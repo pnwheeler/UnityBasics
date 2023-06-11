@@ -15,11 +15,11 @@ I realize this is pretty much *exactly* what the hardware was made for, but seei
  :-------------------------:|:--------------------------: 
  ![cube depth 8](./img/cube_depth_8.png)  | ![sphere depth 8](./img/sphere_depth_8.png) 
  
-Before the optimizations I got ~5fps rendering a sphere-tree @depth 8. Performance improved by a factor of ~18x!
+Before the optimizations I got ~5fps while rendering the (sphere mesh) tree @depth 8. Performance improved by a factor of ~18x!
 
 ### Adding variety with animation and color
 Cube-mesh leaf nodes + gradient colors + sagging axes
 
- organic fractal  | Inspector fields
+ "organic" fractal  | Inspector
  :-------------------------:|:--------------------------: 
- ![organic fractal](./img/organic_fractal.gif) | ![fractal inspector](./img/fractal_settings.png)
+ ![organic fractal](./img/organic_fractal.gif) | ![fractal inspector](./img/fractal_inspector.png)
