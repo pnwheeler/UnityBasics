@@ -13,7 +13,8 @@ I realize this is pretty much *exactly* what the hardware was made for, but seei
 ### Burst compiler + parallelizing loops with jobs
  Cube mesh  @depth 8  | Sphere mesh @depth 8 
  :-------------------------:|:--------------------------: 
- ![cube depth 8](./img/cube_depth_8.png)  | ![sphere depth 8](./img/sphere_depth_8.png)
+ ![cube depth 8](./img/cube_depth_8.png)  | ![sphere depth 8](./img/sphere_depth_8.png) 
+ 
 Before the optimizations I got ~5fps rendering a sphere-tree @depth 8. Performance improved by a factor of ~18x!
 
 ### Adding variety with animation and color
