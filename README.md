@@ -1,5 +1,5 @@
 # Unity Basics
-Working through catlikecoding's [!Unity Basics](!https://catlikecoding.com/unity/tutorials/basics/) tutorials. 
+Working through catlikecoding's [Unity Basics](https://catlikecoding.com/unity/tutorials/basics/) tutorials. 
 
 ## Graph
 #### Compute shader for animating parametric surfaces.
